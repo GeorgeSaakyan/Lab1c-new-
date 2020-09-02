@@ -1,6 +1,6 @@
-//Author: George Saakyan gxs5416@psu.edu
-//Collaborator: Christian Torres ckt5298@psu.edu
-//Collaborator: Manan Patel mxp5787@psu.edu
+// Author: George Saakyan gxs5416@psu.edu
+// Collaborator: Christian Torres ckt5298@psu.edu
+// Collaborator: Manan Patel mxp5787@psu.edu
 
 #include <stdio.h>
 #include <readline/readline.h>
